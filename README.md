@@ -1,4 +1,4 @@
-powderpix: auto pixelart using concrete powder or sand
+powderpix: auto pixelart using falling concrete powder or sand
 
 mappix: auto pixelart using carpet (using birch pressure plate to replace sand color)
 
